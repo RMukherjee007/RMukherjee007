@@ -62,17 +62,26 @@
 
 </td>
 </tr>
+
+<tr>
+<td align="center" colspan="2">
+
+### Core Competencies
+
+Data Structures • Algorithms • System Design • DBMS
+
+</td>
+</tr>
 </table>
 
 </div>
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RMukherjee007&show_icons=true&theme=tokyonight&border_radius=10" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMukherjee007&layout=compact&theme=tokyonight&border_radius=10" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=RMukherjee007&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -82,4 +91,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RMukherjee007&theme=react-dark"/>
 </p>
-
