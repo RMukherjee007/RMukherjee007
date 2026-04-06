@@ -37,23 +37,16 @@
 </td>
 <td align="center" width="50%">
 
-### Frontend
+### Frameworks & Libraries
 
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" />
+<br/>
+<img src="https://cdn.simpleicons.org/socketdotio" height="45"/>
 
 </td>
 </tr>
 
 <tr>
-<td align="center">
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-<br/>
-<img src="https://cdn.simpleicons.org/socketdotio" height="45"/>
-
-</td>
 <td align="center">
 
 ### Databases
@@ -61,22 +54,11 @@
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
 
 </td>
-</tr>
-
-<tr>
 <td align="center">
 
 ### DevOps & Tools
 
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git" />
-
-</td>
-<td align="center">
-
-### Core Competencies
-
-Data Structures • Algorithms <br/>
-System Design • DBMS
 
 </td>
 </tr>
