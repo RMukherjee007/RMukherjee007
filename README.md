@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Raghav Mukherjee 👋</h1>
+<h1 align="center">Hi, I'm Raghav Mukherjee</h1>
 
 <p align="center">
   💻 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🚀 Building Scalable Systems  
@@ -22,7 +22,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 * 🔭 Currently working on: Full-stack development and AI-integrated systems
 * 🌱 Currently learning: Data Structures & Algorithms, Backend Architecture, Machine Learning
@@ -32,87 +32,81 @@
 
 ---
 
-## 💻 Tech Stack
+## Technical Skills
 
+<p align="center">
 <table>
 <tr>
-<td valign="top" width="50%">
+<td align="center" width="50%">
 
-### 🧾 Languages
+### Languages
 
-<p>
 <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python" />
-</p>
 
 </td>
-<td valign="top" width="50%">
+<td align="center" width="50%">
 
-### 🎨 Frontend
+### Frontend
 
-<p>
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
-</p>
 
 </td>
 </tr>
 
 <tr>
-<td valign="top">
+<td align="center">
 
-### ⚙️ Backend
+### Backend
 
-<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
-<img src="https://cdn.simpleicons.org/socketdotio" height="48"/>
-</p>
+<br/>
+<img src="https://cdn.simpleicons.org/socketdotio" height="45"/>
 
 </td>
-<td valign="top">
+<td align="center">
 
-### 🗄️ Databases
+### Databases
 
-<p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
-</p>
 
 </td>
 </tr>
 
 <tr>
-<td valign="top">
+<td align="center">
 
-### ☁️ DevOps & Tools
+### DevOps & Tools
 
-<p>
 <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git" />
-</p>
 
 </td>
-<td valign="top">
+<td align="center">
 
-### 🧠 Core Competencies
+### Core Competencies
 
-Data Structures • Algorithms
+Data Structures • Algorithms <br/>
 System Design • DBMS
 
 </td>
 </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RMukherjee007&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMukherjee007&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 🔥 Contribution Graph
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RMukherjee007&show_icons=true&theme=tokyonight&border_radius=10" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RMukherjee007&layout=compact&theme=tokyonight&border_radius=10" height="170"/>
+</p>
+
+---
+
+## Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RMukherjee007&theme=react-dark"/>
 </p>
+
 
