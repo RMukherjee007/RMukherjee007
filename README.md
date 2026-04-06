@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Raghav Mukherjee</h1>
+<h1 align="center">Hi, I'm Raghav Mukherjee </h1>
 
 <p align="center">
   💻 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🚀 Building Scalable Systems  
@@ -22,19 +22,10 @@
 
 ---
 
-## About Me
-
-* 🔭 Currently working on: Full-stack development and AI-integrated systems
-* 🌱 Currently learning: Data Structures & Algorithms, Backend Architecture, Machine Learning
-* 🤝 Looking to collaborate on: Web development, backend systems, and AI/ML projects
-* 🆘 Looking for help with: System design, scaling applications, and AI integration
-* ⚡ Fun fact: Building my own AI assistant inspired by Gideon
-
----
-
 ## Technical Skills
 
-<p align="center">
+<div align="center">
+
 <table>
 <tr>
 <td align="center" width="50%">
@@ -90,7 +81,8 @@ System Design • DBMS
 </td>
 </tr>
 </table>
-</p>
+
+</div>
 
 ---
 
@@ -108,5 +100,4 @@ System Design • DBMS
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RMukherjee007&theme=react-dark"/>
 </p>
-
 
