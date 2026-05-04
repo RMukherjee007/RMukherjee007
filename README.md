@@ -32,7 +32,7 @@
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python" />
+<img src="https://skillicons.dev/icons?i=c,cpp,js,python" />
 
 </td>
 <td align="center" width="50%">
@@ -41,8 +41,6 @@
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" />
 <br/>
-<img src="https://cdn.simpleicons.org/socketdotio" height="45"/>
-
 </td>
 </tr>
 
