@@ -1,91 +1,44 @@
-<h1 align="center">Hi, I'm Raghav Mukherjee </h1>
-
-<p align="center">
-  💻 Full-Stack Developer | 🤖 AI/ML Enthusiast | 🚀 Building Scalable Systems  
-</p>
-
-<p align="center">
-  I build real-world applications, explore AI-driven systems, and focus on strong engineering fundamentals.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/raghav-mukherjee/">
-    <img src="https://img.shields.io/badge/LinkedIn-Raghav-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://x.com/RMukherjee2005">
-    <img src="https://img.shields.io/badge/X-RMukherjee-black?style=for-the-badge&logo=twitter"/>
-  </a>
-  <a href="mailto:mukherjeeraghav05@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
-
----
-
-## Technical Skills
-
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
+  <!-- Animated Typing Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Raghav+Mukherjee+%F0%9F%91%8B;Full-Stack+%26+Systems+Engineer;Bare-Metal+OS+%26+Microservices;Exploring+AI%2FML+%26+Scalable+Architecture" alt="Typing SVG" />
+  </a>
 
-### Languages
+  <p align="center">
+    <b>B.Tech CSE (AI & ML) • Minor in Management @ SRM University, AP</b><br/>
+    <i>Building high-concurrency web systems, low-latency microservices, and bare-metal OS kernels.</i>
+  </p>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,js,python" />
-
-</td>
-<td align="center" width="50%">
-
-### Frameworks & Libraries
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind" />
-<br/>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" />
-
-</td>
-<td align="center">
-
-### DevOps & Tools
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git" />
-
-</td>
-</tr>
-
-<tr>
-<td align="center" colspan="2">
-
-### Core Competencies
-
-Data Structures • Algorithms • System Design • DBMS
-
-</td>
-</tr>
-</table>
+  <!-- Social & Contact Badges -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/raghav-mukherjee/">
+      <img src="https://img.shields.io/badge/LinkedIn-Raghav_Mukherjee-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://x.com/RMukherjee2005">
+      <img src="https://img.shields.io/badge/X-@RMukherjee2005-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+    </a>
+    <a href="mailto:mukherjeeraghav05@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=RMukherjee007&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </p>
 
 </div>
 
 ---
 
-## GitHub Activity
+## ⚡ Quick Telemetry
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RMukherjee007&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RMukherjee007&theme=react-dark"/>
-</p>
+```yaml
+name: Raghav Pratim Mukherjee
+education: B.Tech CSE (AIML) & Minor in Management @ SRM AP (2024 - 2028)
+current_focus:
+  - Bare-Metal AArch64 Kernel Development (FulmenOS)
+  - High-Concurrency Full-Stack Systems & Microservices
+  - Machine Learning & Generative AI Architectures
+certifications:
+  - MongoDB Certified Associate Developer
+  - HackerRank SQL (Intermediate)
+  - WorldQuant International Quant Championship (Peak Global Rank #98)
+off_the_clock: National Karate Medalist (Gold in Kata, Bronze in Kumite) 🥋
