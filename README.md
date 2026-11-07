@@ -84,35 +84,7 @@ engineering_fundamentals: ["Data Structures & Algorithms", "System Design", "DBM
 </table>
 </div>
 
-<!-- INTERACTIVE ARCHITECTURE DROPDOWN -->
-<details open>
-<summary><b>Click to Toggle: Interactive System Architecture (Zoom & Pan Enabled)</b></summary>
-<br/>
 
-```mermaid
-flowchart LR
-    classDef primaryRed fill:#991b1b,stroke:#facc15,stroke-width:2px,color:#ffffff;
-    classDef accentOrange fill:#c2410c,stroke:#facc15,stroke-width:2px,color:#ffffff;
-    classDef highlightGold fill:#ca8a04,stroke:#fef08a,stroke-width:2px,color:#000000;
-
-    UI["Client UI (React / Next.js / Tailwind)"]:::highlightGold
-    GW["API Gateway & Load Balancer"]:::accentOrange
-    SVC1["Core Services (Java / Spring / Node.js)"]:::primaryRed
-    SVC2["AI Engine (Python / FastAPI / PyTorch)"]:::primaryRed
-    CACHE[("Redis Cache")]:::highlightGold
-    DB[("Primary DB (MySQL / MongoDB / Postgres)")]:::accentOrange
-    INFRA["AWS • Docker • Kubernetes"]:::primaryRed
-
-    UI ==>|Low-Latency REST/WS| GW
-    GW ==> SVC1
-    GW ==> SVC2
-    SVC1 ==>|Sub-ms Read| CACHE
-    SVC1 ==> DB
-    SVC2 ==> DB
-    INFRA -.->|Auto-Scaling| GW
-```
-
-</details>
 
 <details>
 <summary><b>Click to Expand: Core Computer Science & Engineering Pillars</b></summary>
