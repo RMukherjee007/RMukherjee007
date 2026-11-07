@@ -126,13 +126,6 @@ engineering_fundamentals: ["Data Structures & Algorithms", "System Design", "DBM
 
 <br/>
 
-<!-- FIXED CONTRIBUTION ACTIVITY GRAPH -->
-<div align="center">
-  <h4>Contribution Activity Graph</h4>
-  <a href="https://github.com/RMukherjee007">
-    <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=RMukherjee007&theme=react-dark&bg_color=140505&color=facc15&line=f97316&point=dc2626&area=true&hide_border=true" alt="Contribution Graph" />
-  </a>
-</div>
 
 <br/>
 
@@ -144,9 +137,7 @@ engineering_fundamentals: ["Data Structures & Algorithms", "System Design", "DBM
   </a>
 </div>
 
----
-
 <!-- ANIMATED FOOTER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:facc15,30:f97316,65:dc2626,100:7f1d1d&height=120&section=footer&text=Moving%20Fast%20%26%20Building%20Things%20That%20Matter&fontSize=20&fontColor=ffffff&fontAlignY=65" alt="Footer Banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7f1d1d,35:dc2626,70:f97316,100:facc15&height=150&section=footer&text=Moving%20Fast%20%E2%80%A2%20Building%20Things%20That%20Matter&fontSize=22&fontColor=ffffff&fontAlignY=85&animation=fadeIn" alt="Footer Banner" />
 </div>
